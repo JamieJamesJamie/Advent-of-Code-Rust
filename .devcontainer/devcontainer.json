@@ -3,7 +3,7 @@
 {
   "name": "Rust",
   // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-  "image": "mcr.microsoft.com/devcontainers/base:1.0.20-debian-12",
+  "image": "mcr.microsoft.com/devcontainers/base:1.0.21-debian-12",
 
   // Use 'mounts' to make the cargo cache persistent in a Docker Volume.
   "mounts": [
